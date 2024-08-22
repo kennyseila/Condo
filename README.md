@@ -1,2 +1,2 @@
 # Condo
-Condomínio de programas.
+Condomínio de programa
